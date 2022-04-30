@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="bt_res_partner_1" model="res.partner">
+        <field name="name">Ready Mat</field>
+        <field name="last_name">Mat</field>
+        <field name="is_company">0</field>
+        <field name="company_type">person</field>
+        <field name="street">7500 W Linne Road</field>
+        <field name="city">Tracy</field>
+        <field name="state_id" ref='base.state_SJ'/>
+        <field name="zip">95304</field>
+        <field name="country_id" ref="base.cr"/>
+        <field name="email">ready.mat28@example.com</field>
+        <field name="phone">(803)-873-6126</field>
+        <field name="website">http://www.ready-mat.com/</field>
+        <field name="vat">101110111</field>
+    </record>
+    <record id="bt_res_partner_2" model="res.partner">
+        <field name="name">Jackson</field>
+        <field name="last_name">Group</field>
+        <field name="is_company">0</field>
+        <field name="company_type">person</field>
+        <field name="street">1611 Peony Dr</field>
+        <field name="city">Tracy</field>
+        <field name="state_id" ref='base.state_SJ'/>
+        <field name="zip">95377</field>
+        <field name="country_id" ref="base.cr"/>
+        <field name="email">jackson.group82@example.com</field>
+        <field name="phone">(334)-502-1024</field>
+        <field name="vat">202220222</field>
+    </record>
+    <record id="bt_res_partner_3" model="res.partner">
+        <field name="name">Azure</field>
+        <field name="last_name">Interior</field>
+        <field name="is_company">0</field>
+        <field name="company_type">person</field>
+        <field name="street">4557 De Silva St</field>
+        <field name="city">Fremont</field>
+        <field name="state_id" ref='base.state_SJ'/>
+        <field name="zip">94538</field>
+        <field name="phone">(870)-931-0505</field>
+        <field name="country_id" ref="base.cr"/>
+        <field name="email">azure.Interior24@example.com</field>
+        <field name="website">http://www.azure-interior.com</field>
+        <field name="vat">303330333</field>
+    </record>
+    <record id="bt_res_partner_4" model="res.partner">
+        <field name="name">Lumber</field>
+        <field name="last_name">Inc</field>
+        <field name="is_company">0</field>
+        <field name="company_type">person</field>
+        <field name="street">1337 N San Joaquin St</field>
+        <field name="city">Stockton</field>
+        <field name="state_id" ref='base.state_SJ'/>
+        <field name="zip">95202</field>
+        <field name="email">lumber-inv92@example.com</field>
+        <field name="phone">(828)-316-0593</field>
+        <field name="country_id" ref="base.cr"/>
+        <field name="website">http://www.lumber-inc.com</field>
+        <field name="vat">404440444</field>
+    </record>
+    <record id="res_partner_5" model="res.partner">
+        <field name="name">Wood</field>
+        <field name="last_name">Corner</field>
+        <field name="is_company">0</field>
+        <field name="company_type">person</field>
+        <field name="street">1839 Arbor Way</field>
+        <field name="city">Turlock</field>
+        <field name="state_id" ref='base.state_SJ'/>
+        <field name="zip">95380</field>
+        <field name="country_id" ref="base.cr"/>
+        <field name="email">wood.corner26@example.com</field>
+        <field name="phone">(623)-853-7197</field>
+        <field name="website">http://www.wood-corner.com</field>
+        <field name="vat">505550555</field>
+    </record>
+</odoo>
