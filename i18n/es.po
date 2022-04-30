@@ -1,0 +1,42 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* odoo_test
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0-20220401\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-30 00:56+0000\n"
+"PO-Revision-Date: 2022-04-30 00:56+0000\n"
+"Last-Translator: Norlan Ruiz\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: odoo_test
+#: model:ir.model,name:odoo_test.model_res_partner
+msgid "Contact"
+msgstr "Contacto"
+
+#. module: odoo_test
+#: model:ir.model.fields,field_description:odoo_test.field_res_partner__last_name
+#: model:ir.model.fields,field_description:odoo_test.field_res_users__last_name
+msgid "Last Name"
+msgstr "Apellido"
+
+#. module: odoo_test
+#: model_terms:ir.ui.view,arch_db:odoo_test.res_partner_kanban_view_inherit
+msgid "at"
+msgstr en
+
+#. module: odoo_test
+#: model_terms:ir.ui.view,arch_db:odoo_test.view_partner_form_inherit
+msgid "e.g. Brandon"
+msgstr "ej. Brandon"
+
+#. module: odoo_test
+#: model_terms:ir.ui.view,arch_db:odoo_test.view_partner_form_inherit
+msgid "e.g. Freeman"
+msgstr "ej. Freeman"
