@@ -29,7 +29,7 @@ msgstr "Apellido"
 #. module: odoo_test
 #: model_terms:ir.ui.view,arch_db:odoo_test.res_partner_kanban_view_inherit
 msgid "at"
-msgstr en
+msgstr "en"
 
 #. module: odoo_test
 #: model_terms:ir.ui.view,arch_db:odoo_test.view_partner_form_inherit
