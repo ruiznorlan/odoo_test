@@ -3,5 +3,4 @@
 
 
 # Odoo Demo
-
-<div style="float: left;"><img src="static/description/icon.png" width="128" height="128"/></div> 
+<img src="https://github.com/ruiznorlan/odoo_test/raw/15.0/static/description/icon_demo.png" width="128" height="128"/>
