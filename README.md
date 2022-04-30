@@ -1,1 +1,1 @@
-# odoo_test
+# Odoo 15 - Example
